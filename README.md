@@ -1,10 +1,11 @@
 ## Python Notes
+
 ### File structure
 ```bash
 Python
 |
 │
-├───datatypes
+├───Datatypes
 │       booleans.py
 │       datatypes.py
 │       numbers.py
@@ -12,13 +13,18 @@ Python
 │       string.py
 │       variables.py
 │
-|───loops
+|───Loops
 |        for.py
 |        if_else.py
 |        practice.py
 |        while.py
+|
+├───Fnctions
+│       functions_1.py
+│       functions_2.py
+│       lambda.py
 │
-├───datastructures
+├───Datastructures
 │   ├───dictionaries
 │   │       access.py
 │   │       change.py
@@ -48,6 +54,4 @@ Python
 │   └───tuples
 │           1_tuples.py
 │           2_loop.py
-
-
 ```
